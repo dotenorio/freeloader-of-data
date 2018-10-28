@@ -14,7 +14,7 @@
     "meta-data"
   ],
   "author": "Fernando M. Tenório <dotenorio@gmail.com> (https://blog.dotenorio.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.6.1",
     "open-graph": "^0.2.3",
