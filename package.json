@@ -1,0 +1,26 @@
+{
+  "name": "freeloader",
+  "version": "1.0.0",
+  "description": "A simple crawler or scraper to get open graph and other meta data from any website.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "keywords": [
+    "open-graph",
+    "graph",
+    "crawler",
+    "scraper",
+    "meta-data"
+  ],
+  "author": "Fernando M. Tenório <dotenorio@gmail.com> (https://blog.dotenorio.com)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "open-graph": "^0.2.3",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
