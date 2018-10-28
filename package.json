@@ -22,5 +22,16 @@
   },
   "devDependencies": {
     "standard": "^12.0.1"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotenorio/freeloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dotenorio/freeloader/issues"
+  },
+  "homepage": "https://github.com/dotenorio/freeloader#readme"
 }
