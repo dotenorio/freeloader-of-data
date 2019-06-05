@@ -1,6 +1,6 @@
 {
   "name": "freeloader-of-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple crawler or scraper to get open graph and other meta data from any website.",
   "main": "index.js",
   "scripts": {
